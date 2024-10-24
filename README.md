@@ -20,7 +20,7 @@ Windows:
 git clone https://github.com/ThePineappleW/NLPgames.git
 cd NLPgames
 py -m venv <venv-name>
-.\\<venv-name>\\Scripts\\activate
+.\<venv-name>\Scripts\activate
 pip install -r requirements.txt
 ```
 
